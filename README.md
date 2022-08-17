@@ -2,9 +2,9 @@
 
 * Tecnologia em Análise e Desenvolvimento de Sistemas
 
-* Projeto: Desenvolvimento de uma Aplicação Interativa
+* Projeto: Desenvolvimento de uma Aplicação Mobile
 
-`Segundo periodo`
+`Terceiro periodo`
 
 <p align="justify">O objetivo geral deste trabalho é a criação de solução tecnológica que visa aproximar os usuários que queiram contratar serviços domésticos aos profissionais cadastrados, oferecendo-lhes vários orçamentos para que possam escolher a melhor opção.</p>
 
@@ -12,11 +12,10 @@
 
 ## Integrantes
 
-* Maxwell Justino Ferreira
-* Cristiane de Morais Ramos
+
+* Márcia Maria de Paula Ferreira
 * Marcelo dos Santos Farias
 * Moisés Hastenraiter Da Silva
-* Valcilene Aparecida França Miranda Dias
 * Mário César de Souza Fernandes
 
 
